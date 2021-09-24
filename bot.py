@@ -1,7 +1,7 @@
 import telebot
 from datetime import datetime
 
-APIKEY = "CALL ME IN PV BITCHS"
+APIKEY = "CALL ME IN PV BITS"
 
 bot = telebot.TeleBot(APIKEY)
 
